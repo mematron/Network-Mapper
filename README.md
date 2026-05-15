@@ -22,6 +22,10 @@ This is not a utilitarian tool with a visual wrapper. The design is the point.
 - **Hidden mechanic** — clicking the sun reveals a second screen: a hand-drawn pixel art motherboard showing the application's internal architecture. Art complete. Interactivity in progress.
 - **Pixel art** — all art assets are handmade. No stock. No generated imagery.
 
+![Network Map](networkmapper_screen.png)
+
+![Motherboard](networkmapper_motherboard.jpeg)
+
 ---
 
 ## Technical
